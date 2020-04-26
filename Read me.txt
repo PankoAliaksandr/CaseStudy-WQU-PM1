@@ -1,0 +1,4 @@
+Packages listed below should be installed:
+
+1) quantmod
+2) xts
